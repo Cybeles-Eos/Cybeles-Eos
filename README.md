@@ -1,3 +1,5 @@
+![Hero Image](https://raw.githubusercontent.com/Cybeles-Eos/Cybeles-Eos/main/hero.png)
+
 ### Hi there, I’m **Zach**👋
 I’m a Jr. Fullstack Developer who builds practical, efficient and user-focused web solutions. I work on both frontend and backend, combining clean code with clear design. I build minimalist interfaces that focus on clarity and function. I care about usability, speed and detail, making sure every project works smoothly and looks consistent across all platforms.
 
@@ -11,5 +13,8 @@ I’m a Jr. Fullstack Developer who builds practical, efficient and user-focused
 
 ### Backend Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+
+
+
 
 
