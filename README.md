@@ -7,6 +7,7 @@ I’m a Jr. Fullstack Developer who builds practical, efficient and user-focused
 ### Frontend Tools
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-Sass-CD6799.svg?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-18.0-61DAFB.svg?logo=react&logoColor=black)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
