@@ -14,6 +14,7 @@ I’m a Jr. Fullstack Developer who builds practical, efficient and user-focused
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-3.7-0769AD.svg?logo=jquery&logoColor=white)](https://jquery.com/)
 [![Astro](https://img.shields.io/badge/Astro-7.1-BC52EE.svg?logo=astro&logoColor=white)](https://astro.build/)
+
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30"/> -->
