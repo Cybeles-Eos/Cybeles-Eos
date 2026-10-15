@@ -1,8 +1,8 @@
 ![Hero Image](https://raw.githubusercontent.com/Cybeles-Eos/Cybeles-Eos/main/view.png)
 
-### Hi there, I’m **Zach**👋
-I’m a Jr. Fullstack Developer who builds practical, efficient and user-focused web solutions. I work on both frontend and backend, combining clean code with clear design. I’m also good at UI/UX and web design, creating minimalist interfaces that focus on clarity and function. I specialize in web design, focusing on usability, speed and detail, making sure every project works smoothly and looks consistent across all platforms. I’m still learning and growing, always willing to learn and improve anytime.
-
+### Hi, I'm Dawn Izach Cruz 
+<!--I’m a Jr. Fullstack Developer who builds practical, efficient and user-focused web solutions. I work on both frontend and backend, combining clean code with clear design. I’m also good at UI/UX and web design, creating minimalist interfaces that focus on clarity and function. I specialize in web design, focusing on usability, speed and detail, making sure every project works smoothly and looks consistent across all platforms. I’m still learning and growing, always willing to learn and improve anytime.-->
+Junior Full-Stack Developer and Aspiring Software Engineer. Information Technology graduate from the Polytechnic University of the Philippines with experience building web applications and creating user-focused digital experiences. I build practical web applications and user-friendly interfaces through full-stack development and UI/UX design. I continue to develop my skills through hands-on projects, self-study and exploring new technologies.
 
 ### Frontend Tools
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
